@@ -33,6 +33,7 @@ gem 'spring',        group: :development
 # gem 'unicorn'
 
 gem "paperclip"
+gem 'sorcery'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
